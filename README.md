@@ -3,7 +3,7 @@
 I'm thrilled to introduce a server implementation in the C language, designed to operate seamlessly over TCP connections. This server offers robust functionality for handling client requests efficiently, making it ideal for various network applications.
 
 ## Server Features:
-TCP Connection Handling: The server is built to manage TCP connections effectively, ensuring reliable communication between clients and the server.
+** TCP Connection Handling:**   The server is built to manage TCP connections effectively, ensuring reliable communication between clients and the server.
 Concurrency: Implemented with support for handling multiple client connections concurrently, optimizing resource utilization and overall performance.
 Request Processing: Capable of processing various types of client requests, such as data retrieval, manipulation, and updates, providing a versatile platform for diverse applications.
 Error Handling: Equipped with comprehensive error handling mechanisms to maintain stability and resilience in the face of unexpected events or erroneous input.
