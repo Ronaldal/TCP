@@ -13,6 +13,7 @@ I'm thrilled to introduce a server implementation in the C language, designed to
 
 ## Postman Integration:
 To streamline the testing and development process, I've included a ready-to-use Postman collection tailored for interacting with the server. 
+
 **This integration enables developers to:**
 - Send Requests: Easily craft and send custom requests to the server using the intuitive interface of Postman.
   
