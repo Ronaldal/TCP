@@ -26,9 +26,13 @@ To streamline the testing and development process, I've included a ready-to-use 
 
 ## File Dependencies:
 For seamless operation of the server, please ensure the following files are available in the C://temp folder:
+
 htmlServerFile_en.html
+
 htmlServerFile_fr.html
+
 htmlServerFile_he.html
+
 errorNotFound.html
 
 These files are essential for serving content and handling error responses effectively.
