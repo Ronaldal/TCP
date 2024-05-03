@@ -20,7 +20,18 @@ To streamline the testing and development process, I've included a ready-to-use 
 - Test Functionality: Validate the server's responses and behavior across different scenarios, facilitating thorough testing and debugging.
   
 - Debugging Support: Leverage Postman's debugging features to diagnose issues and fine-tune the server's functionality for optimal performance.
-  
+
+## Server Configuration:
+**Server Address:** The server is hosted at localhost:27015. Please ensure your environment is configured to access this address accordingly.
+
+## File Dependencies:
+For seamless operation of the server, please ensure the following files are available in the C://temp folder:
+htmlServerFile_en.html
+htmlServerFile_fr.html
+htmlServerFile_he.html
+errorNotFound.html
+
+These files are essential for serving content and handling error responses effectively.
 
 ## How to Get Started:
 1. Clone the Repository: Start by cloning the repository containing the server implementation and Postman collection to your local environment.
