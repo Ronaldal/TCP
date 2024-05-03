@@ -23,7 +23,10 @@ To streamline the testing and development process, I've included a ready-to-use 
   
 
 ## How to Get Started:
-- Clone the Repository: Start by cloning the repository containing the server implementation and Postman collection to your local environment.
-- Build the Server: Follow the provided instructions to build the server from the source code. Ensure all dependencies are properly installed.
-- Launch the Server: Run the server executable, specifying any required parameters or configuration options as needed.
-- Utilize Postman: Import the included Postman collection into your Postman workspace. From there, you can begin sending requests to the server and exploring its capabilities.
+1. Clone the Repository: Start by cloning the repository containing the server implementation and Postman collection to your local environment.
+2. Build the Server: Follow the provided instructions to build the server from the source code. Ensure all dependencies are properly installed.
+3. Move Files: Transfer the required files to the C://temp folder as specified above.
+4. Launch the Server: Run the server executable, specifying any required parameters or configuration options as needed.
+5. Utilize Postman: Import the included Postman collection into your Postman workspace. From there, you can begin sending requests to the server and exploring its capabilities.
+
+ 
